@@ -6,7 +6,7 @@ I hope this message finds you well.
 
 As part of our initial analysis of your August 2018 transaction data, we conducted a basic data quality check to ensure accuracy and usability for further analytics. Here are our findings:
 
-🔍 Data Quality Issues Identified:
+Data Quality Issues Identified:
 Missing Data:
 
 Several entries have blank or missing values for merchant_suburb and merchant_state.
