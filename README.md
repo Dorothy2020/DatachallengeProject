@@ -52,7 +52,9 @@ We have attached a short presentation summarizing key insights and visual trends
 Please let us know if you’d like a deeper dive or additional metrics for your review.
 
 Best regards,
+
 Dorothy Akoth
+
 Inter Bank
 
 ## Here are my slides
