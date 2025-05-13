@@ -6,7 +6,7 @@ I hope this message finds you well.
 
 As part of our initial analysis of your August 2018 transaction data, we conducted a basic data quality check to ensure accuracy and usability for further analytics. Here are our findings:
 
-🔍 Data Quality Issues Identified:
+Data Quality Issues Identified:
 Missing Data:
 
 Several entries have blank or missing values for merchant_suburb and merchant_state.
@@ -52,7 +52,9 @@ We have attached a short presentation summarizing key insights and visual trends
 Please let us know if you’d like a deeper dive or additional metrics for your review.
 
 Best regards,
+
 Dorothy Akoth
+
 Inter Bank
 
 ## Here are my slides
