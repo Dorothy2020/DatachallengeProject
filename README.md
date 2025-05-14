@@ -23,7 +23,7 @@ Some rows under card_present_flag are blank. It's unclear if this implies â€œ0â€
 
 Inconsistent Transaction Descriptions:
 
-txn_description includes varying terms (e.g., "POS", "SALES-POS", "INTER BANK") without clear definitions, which may hinder categorization.
+txn_description includes varying terms (example "POS", "SALES-POS", "INTER BANK") without clear definitions, which may hinder categorization.
 
 Recommendations for Future Data Collection:
 Ensure mandatory fields (merchant details, card_present_flag) are always captured.
